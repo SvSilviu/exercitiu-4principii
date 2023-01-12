@@ -1,6 +1,6 @@
 package exemplu;
 
-public class Punct extends FiguraGeometrica {
+public class Punct implements FiguraGeometrica {
     private int x, y;
 
     public Punct(int x, int y) {

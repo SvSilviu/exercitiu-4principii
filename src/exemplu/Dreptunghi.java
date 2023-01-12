@@ -1,6 +1,6 @@
 package exemplu;
 
-public class Dreptunghi extends FiguraGeometrica {
+public class Dreptunghi implements FiguraGeometrica {
     private Punct punctulDreptunghului1, punctulDreptunghiului2;
 
     public Dreptunghi(Punct punctulDreptunghului1, Punct punctulDreptunghiului2) {

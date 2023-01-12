@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35037441-bc24-4595-b688-3c6e6931c60a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exemplu-figuri-Geometrice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exemplu/Cerc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exemplu/Cerc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exemplu/DesenGeometric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exemplu/DesenGeometric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exemplu/Dreptunghi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exemplu/Dreptunghi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exemplu/Eticheta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exemplu/Eticheta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exemplu/FiguraGeometrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exemplu/FiguraGeometrica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exemplu/Linie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exemplu/Linie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exemplu/Punct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exemplu/Punct.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -1,13 +1,13 @@
 package exemplu;
 
-public abstract class FiguraGeometrica {
+public interface  FiguraGeometrica {
 
-    public abstract void afisare();
+      void afisare();
 
-    public abstract void translateaza(int x, int y);
+      void translateaza(int x, int y);
 
-    public abstract FiguraGeometrica duplicare();
+      FiguraGeometrica duplicare();
 
-    public abstract void identitate();
+      void identitate();
 
 }

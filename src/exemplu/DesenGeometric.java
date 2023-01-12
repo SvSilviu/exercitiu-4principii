@@ -3,7 +3,7 @@ package exemplu;
 import java.util.ArrayList;
 import java.util.Objects;
 
-public class DesenGeometric extends FiguraGeometrica {
+public class DesenGeometric implements FiguraGeometrica {
     private ArrayList<FiguraGeometrica> listaFiguri;
 
     public DesenGeometric(ArrayList<FiguraGeometrica> listaFiguri) {

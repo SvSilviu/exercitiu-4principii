@@ -1,6 +1,6 @@
 package exemplu;
 
-public class Cerc extends FiguraGeometrica {
+public class Cerc implements FiguraGeometrica {
 
     private Punct punctulCercului;
     private int raza;

@@ -1,6 +1,6 @@
 package exemplu;
 
-public class Linie extends FiguraGeometrica {
+public class Linie implements FiguraGeometrica {
     private Punct punct1, punct2;
 
     public Linie(Punct punct1, Punct punct2) {

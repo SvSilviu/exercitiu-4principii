@@ -1,6 +1,6 @@
 package exemplu;
 
-public class Eticheta extends FiguraGeometrica {
+public class Eticheta implements FiguraGeometrica {
     private Punct punctEticheta1, punctEticheta2;
     private String text;
 
